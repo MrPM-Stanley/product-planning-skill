@@ -8,8 +8,6 @@
 
 這邊先放一個<a target="_blank" href="https://mrpm.cc/wp-content/product_planning_sample.html">產品企劃實作框架的案例</a>，給大家看一下這個 skill 可以做的事，你只要告訴他你想做什麼 idea，他就會和你互動，產出這整個頁面來。
 
-這個產品企劃實作框架，是怎樣的理論呢？可以參考這個影片。
-<center>
-  [![產品企劃實作框架範例](https://img.youtube.com/vi/2HupdmYg_s0/0.jpg)](https://www.youtube.com/watch?v=2HupdmYg_s0)
-</center>
+這個產品企劃實作框架，是怎樣的理論呢？可以參考<a target="_blank" href="https://mrpm.cc/wp-content/product_planning_sample.html">產品企劃實作框架範例</a>。
+
 對完整理論有興趣的話，可以參考PPA上的 <a href="https://www.pressplay.cc/project/757DCE83D2D7FE4573DC4DF02F2B5569/about" rel="noopener" target="_blank">產品企劃力</a> 課程。
