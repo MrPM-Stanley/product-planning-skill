@@ -10,6 +10,6 @@
 
 這個產品企劃實作框架，是怎樣的理論呢？可以參考這個影片。
 <center>
-[![產品企劃實作框架範例](https://img.youtube.com/vi/2HupdmYg_s0/0.jpg)](https://www.youtube.com/watch?v=2HupdmYg_s0)]
+  [embed]([https://www.youtube.com/watch?v=影片ID](https://www.youtube.com/watch?v=2HupdmYg_s0))
 </center>
 對完整理論有興趣的話，可以參考PPA上的 <a href="https://www.pressplay.cc/project/757DCE83D2D7FE4573DC4DF02F2B5569/about" rel="noopener" target="_blank">產品企劃力</a> 課程。
