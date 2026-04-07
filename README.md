@@ -10,6 +10,8 @@
 <img src="https://mrpm.cc/wp-content/uploads/2026/03/截圖-2026-03-07-下午2.40.01.png" alt="" width="2208" height="1110" class="alignnone size-full wp-image-1820" />
 這個產品企劃實作框架，是怎樣的理論呢？可以參考這個影片。
 <center>
+[![產品企劃實作框架範例](https://img.youtube.com/vi/2HupdmYg_s0/0.jpg)](https://www.youtube.com/watch?v=2HupdmYg_s0)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2HupdmYg_s0?si=scT2pWEsSEZAwFmF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </center>
 對完整理論有興趣的話，可以參考PPA上的 <a href="https://www.pressplay.cc/project/757DCE83D2D7FE4573DC4DF02F2B5569/about" rel="noopener" target="_blank">產品企劃力</a> 課程。
