@@ -7,7 +7,7 @@
 這個產品企劃框架，適用的不只是軟體產品，硬體產品甚至是服務型產品，也都適合喔！
 
 這邊先放一個<a target="_blank" href="https://mrpm.cc/wp-content/product_planning_sample.html">產品企劃實作框架的案例</a>，給大家看一下這個 skill 可以做的事，你只要告訴他你想做什麼 idea，他就會和你互動，產出這整個頁面來。
-<img src="https://mrpm.cc/wp-content/uploads/2026/03/截圖-2026-03-07-下午2.40.01.png" alt="" width="2208" height="1110" class="alignnone size-full wp-image-1820" />
+
 這個產品企劃實作框架，是怎樣的理論呢？可以參考這個影片。
 <center>
 [![產品企劃實作框架範例](https://img.youtube.com/vi/2HupdmYg_s0/0.jpg)](https://www.youtube.com/watch?v=2HupdmYg_s0)
